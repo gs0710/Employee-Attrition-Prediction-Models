@@ -1,0 +1,6 @@
+Model,Threshold,Accuracy,Precision,Recall,F1_Score,ROC_AUC,True_Positives,False_Positives,True_Negatives,False_Negatives,Fit_Duration_Sec
+Baseline,0.5,0.8129,0.0,0.0,0.0,0.5,0,0,239,55,0.036
+Logistic Regression,0.5,0.6565,0.3175,0.7273,0.442,0.7281,40,86,153,15,0.044
+Decision Tree,0.5,0.6769,0.3113,0.6,0.4099,0.6491,33,73,166,22,0.042
+Random Forest,0.5,0.7517,0.375,0.4909,0.4252,0.724,27,45,194,28,0.305
+XGBoost,0.5,0.7381,0.3382,0.4182,0.374,0.7294,23,45,194,32,0.178

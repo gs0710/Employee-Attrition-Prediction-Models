@@ -1,0 +1,23 @@
+Feature_Name,Data_Type,Role,Description,Values_or_Range,Leakage_Risk,Handling_Strategy
+EmployeeID,Categorical (String),Identifier,Unique identification number for employee,EMP-0001 to EMP-1470,High (Memorization risk),Drop prior to modeling
+Department,Categorical (Nominal),Predictor,Organizational business unit,"Sales, Research & Development, Human Resources",None,One-Hot Encode
+JobRole,Categorical (Nominal),Predictor,Specific job position title,9 distinct roles,None,One-Hot Encode
+Age,Numeric (Integer),Predictor,Employee age in years,20 to 59 years,None,StandardScaler for LR; Raw for trees
+Gender,Categorical (Binary),Predictor / Demographic,Reported gender identity,"Male, Female",Fairness audit,One-Hot Encode (monitored in fairness audit)
+EducationLevel,Categorical (Ordinal),Predictor,Highest completed education level,"Below College, College, Bachelor, Master, Doctor",None,One-Hot Encode
+JobLevel,Numeric (Ordinal/Integer),Predictor,Hierarchical job grade/seniority,1 (Entry) to 5 (Executive),None,StandardScaler for LR; Raw for trees
+MonthlyIncome,Numeric (Integer),Predictor / Reg. Target,Gross monthly salary in USD,$1800 to $25000+,None,StandardScaler for LR; Raw for trees
+TotalWorkingYears,Numeric (Integer),Predictor,Cumulative professional career experience,0 to 40 years,None,StandardScaler for LR; Raw for trees
+YearsAtCompany,Numeric (Integer),Predictor,Tenure at current employer,0 to 35 years,None,StandardScaler for LR; Raw for trees
+YearsInCurrentRole,Numeric (Integer),Predictor,Years in current job assignment,0 to 20 years,None,StandardScaler for LR; Raw for trees
+YearsSinceLastPromotion,Numeric (Integer),Predictor,Years since most recent organizational promotion,0 to 18 years,None,StandardScaler for LR; Raw for trees
+YearsWithCurrManager,Numeric (Integer),Predictor,Years reporting to current direct manager,0 to 18 years,None,StandardScaler for LR; Raw for trees
+TrainingTimesLastYear,Numeric (Integer),Predictor,Number of training sessions attended last year,0 to 6 sessions,None,StandardScaler for LR; Raw for trees
+JobSatisfaction,Numeric (Ordinal Likert),Predictor,Employee job satisfaction rating,1 (Low) to 4 (Very High),None,StandardScaler for LR; Raw for trees
+EnvironmentSatisfaction,Numeric (Ordinal Likert),Predictor,Work environment satisfaction rating,1 (Low) to 4 (Very High),None,StandardScaler for LR; Raw for trees
+WorkLifeBalance,Numeric (Ordinal Likert),Predictor,Perceived work-life balance rating,1 (Low) to 4 (Very High),None,StandardScaler for LR; Raw for trees
+PerformanceRating,Numeric (Ordinal Likert),Predictor,Most recent annual performance evaluation score,1 (Unsatisfactory) to 4 (Outstanding),None,StandardScaler for LR; Raw for trees
+Overtime,Categorical (Binary),Predictor,Requirement to work beyond standard contract hours,"Yes, No",None,One-Hot Encode
+BusinessTravel,Categorical (Nominal),Predictor,Frequency of enterprise travel,"Non-Travel, Travel_Rarely, Travel_Frequently",None,One-Hot Encode
+AbsenteeismDays,Numeric (Integer),Predictor,Days of absence in past 12 months,0 to 13 days,None,StandardScaler for LR; Raw for trees
+Attrition,Categorical (Binary),Primary Target,Whether the employee departed the company,"Yes (Left), No (Stayed)",Target,Binary mapping: Yes->1, No->0

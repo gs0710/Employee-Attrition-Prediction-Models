@@ -1,0 +1,295 @@
+Department,JobRole,Age,Gender,EducationLevel,JobLevel,MonthlyIncome,TotalWorkingYears,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,TrainingTimesLastYear,JobSatisfaction,EnvironmentSatisfaction,WorkLifeBalance,PerformanceRating,Overtime,BusinessTravel,AbsenteeismDays
+Research & Development,Laboratory Technician,43,Female,Master,4,14582,16,9,2,3,7,2,2,2,3,3,Yes,Non-Travel,4
+Research & Development,Software Engineer,56,Male,Bachelor,1,3780,9,3,3,2,0,3,3,3,2,3,No,Non-Travel,2
+Research & Development,Software Engineer,21,Male,Bachelor,1,3049,0,0,0,0,0,2,3,2,3,3,No,Travel_Frequently,5
+Research & Development,Laboratory Technician,48,Male,Below College,1,2888,3,1,1,0,0,3,3,4,3,3,No,Non-Travel,3
+Research & Development,Research Scientist,33,Female,Bachelor,1,2913,1,0,0,0,0,1,3,4,4,3,No,Travel_Rarely,6
+Sales,Sales Executive,27,Female,Bachelor,2,5496,5,4,3,0,4,3,4,4,2,3,No,Travel_Rarely,4
+Research & Development,Research Scientist,28,Female,Below College,2,5615,6,4,3,2,2,2,1,2,2,2,No,Travel_Frequently,6
+Sales,Sales Executive,48,Male,Master,3,9239,11,6,2,1,5,2,3,1,3,3,No,Travel_Rarely,2
+Research & Development,Research Scientist,33,Male,Bachelor,2,7520,8,3,2,0,3,2,3,4,4,3,No,Travel_Rarely,4
+Research & Development,Research Scientist,22,Female,Bachelor,1,3200,1,0,0,0,0,3,4,3,1,3,Yes,Travel_Rarely,5
+Research & Development,Manufacturing Director,37,Female,Doctor,4,13667,14,7,3,4,7,2,4,1,2,4,Yes,Travel_Rarely,5
+Sales,Manager,26,Male,College,4,13504,2,1,1,0,0,3,4,3,4,3,Yes,Travel_Frequently,7
+Research & Development,Software Engineer,38,Male,Master,2,6473,14,5,4,1,5,5,4,2,3,4,Yes,Travel_Rarely,3
+Research & Development,Research Scientist,41,Female,Bachelor,1,4360,10,3,1,0,0,2,2,4,3,3,No,Travel_Rarely,4
+Research & Development,Manufacturing Director,56,Male,College,4,17036,17,12,8,3,6,3,2,3,1,3,Yes,Travel_Rarely,1
+Research & Development,Research Scientist,20,Female,Master,1,2370,0,0,0,0,0,3,2,4,4,4,Yes,Travel_Rarely,6
+Human Resources,Manager,32,Male,Bachelor,4,15007,8,4,0,0,3,4,3,4,1,3,No,Travel_Rarely,1
+Sales,Manager,29,Male,College,4,14782,7,4,4,0,2,2,4,3,4,3,No,Travel_Frequently,3
+Sales,Sales Executive,57,Male,College,2,9547,33,5,1,4,3,0,2,2,4,3,No,Travel_Rarely,2
+Research & Development,Software Engineer,24,Male,College,1,2609,2,1,1,1,0,4,1,4,2,3,No,Travel_Rarely,4
+Sales,Sales Executive,29,Male,Master,4,12426,6,2,0,0,0,0,1,2,4,3,Yes,Travel_Rarely,7
+Research & Development,Software Engineer,22,Male,College,1,3351,1,0,0,0,0,3,2,4,1,2,No,Travel_Rarely,3
+Research & Development,Software Engineer,37,Male,Bachelor,4,15519,11,3,1,2,1,3,2,1,3,3,No,Travel_Rarely,4
+Research & Development,Software Engineer,55,Male,Bachelor,1,4282,10,5,2,0,3,4,2,2,3,3,No,Travel_Rarely,7
+Sales,Sales Executive,49,Female,Master,2,7937,13,5,2,4,2,2,4,3,4,4,No,Travel_Rarely,1
+Sales,Sales Executive,48,Male,Below College,3,9447,16,10,0,7,8,2,3,2,4,3,No,Travel_Rarely,3
+Sales,Sales Representative,26,Female,Bachelor,1,3300,5,3,0,1,2,3,3,3,2,3,No,Travel_Rarely,1
+Sales,Sales Executive,31,Female,College,3,9570,1,0,0,0,0,2,3,4,4,2,No,Non-Travel,5
+Sales,Sales Executive,23,Male,Bachelor,2,4246,2,0,0,0,0,3,1,3,3,3,No,Travel_Rarely,3
+Research & Development,Manufacturing Director,21,Male,Below College,5,17884,0,0,0,0,0,5,3,4,4,4,No,Travel_Rarely,1
+Sales,Sales Executive,57,Female,Master,2,7435,9,1,1,1,1,5,1,3,3,3,No,Travel_Rarely,7
+Research & Development,Software Engineer,20,Female,Master,1,2471,0,0,0,0,0,2,3,3,4,3,No,Travel_Rarely,1
+Research & Development,Research Director,59,Male,Bachelor,4,13811,20,7,2,5,5,1,3,3,2,3,Yes,Travel_Rarely,5
+Research & Development,Research Director,31,Female,College,5,18228,3,1,0,1,0,4,1,1,3,3,No,Travel_Frequently,1
+Human Resources,Manager,22,Male,College,5,23288,1,0,0,0,0,3,2,4,2,1,No,Travel_Rarely,6
+Research & Development,Research Scientist,21,Female,College,1,3564,0,0,0,0,0,3,2,3,1,2,No,Non-Travel,4
+Research & Development,Research Director,24,Male,Below College,4,16401,2,0,0,0,0,4,3,2,4,3,No,Non-Travel,2
+Research & Development,Research Scientist,25,Female,Below College,1,3388,4,2,1,2,0,1,4,1,2,3,No,Travel_Frequently,7
+Sales,Sales Representative,55,Male,College,2,6034,12,2,2,0,2,3,3,4,4,4,No,Travel_Rarely,6
+Research & Development,Software Engineer,39,Male,Master,2,4979,4,3,0,0,0,2,4,3,4,2,Yes,Travel_Rarely,4
+Sales,Manager,34,Male,Bachelor,4,13868,2,0,0,0,0,5,3,2,1,3,Yes,Travel_Frequently,3
+Research & Development,Research Scientist,24,Female,Master,3,9548,3,1,1,0,0,2,4,3,3,3,No,Travel_Frequently,10
+Research & Development,Software Engineer,55,Female,College,3,9985,24,2,2,1,0,2,3,2,4,3,No,Travel_Rarely,1
+Research & Development,Software Engineer,54,Male,Below College,3,11826,22,10,5,0,6,3,4,3,3,4,Yes,Travel_Rarely,8
+Research & Development,Software Engineer,38,Male,Bachelor,2,5909,6,2,0,2,0,2,3,1,4,3,No,Travel_Frequently,6
+Sales,Sales Executive,52,Male,Master,3,8479,8,6,2,2,4,3,4,3,1,2,Yes,Travel_Rarely,3
+Research & Development,Research Scientist,53,Male,Bachelor,3,9509,18,4,1,2,4,3,3,1,2,3,No,Travel_Rarely,3
+Research & Development,Research Scientist,35,Male,Master,3,8134,6,3,2,3,1,2,2,2,3,3,Yes,Travel_Rarely,5
+Human Resources,Human Resources,59,Male,College,4,16797,18,5,5,0,0,4,1,4,2,3,Yes,Travel_Rarely,8
+Human Resources,Manager,41,Female,College,5,17164,1,0,0,0,0,1,2,3,3,3,No,Travel_Frequently,5
+Research & Development,Manufacturing Director,48,Male,Doctor,5,18979,2,1,0,1,1,3,4,4,1,3,Yes,Travel_Rarely,4
+Research & Development,Laboratory Technician,57,Female,Doctor,2,6550,17,9,9,0,4,3,4,1,4,1,No,Travel_Rarely,4
+Research & Development,Software Engineer,55,Female,Bachelor,3,12981,23,6,4,0,4,2,3,2,3,4,No,Travel_Rarely,3
+Research & Development,Laboratory Technician,55,Male,Doctor,3,9295,13,1,0,1,0,3,2,2,4,3,No,Non-Travel,2
+Research & Development,Laboratory Technician,58,Male,Below College,4,16034,14,9,8,2,0,2,3,2,4,3,No,Travel_Rarely,7
+Human Resources,Human Resources,29,Male,College,1,2947,4,1,1,1,1,3,2,4,4,4,No,Travel_Rarely,3
+Human Resources,Human Resources,40,Female,Bachelor,3,9128,4,2,2,2,2,2,4,4,3,2,No,Travel_Frequently,2
+Sales,Sales Representative,50,Female,Bachelor,3,9816,13,12,8,6,7,3,1,2,3,3,No,Non-Travel,2
+Research & Development,Laboratory Technician,32,Female,Bachelor,1,3249,4,2,1,0,1,2,4,4,3,3,No,Travel_Rarely,5
+Research & Development,Research Director,34,Male,Bachelor,4,15044,7,5,5,0,0,2,4,1,2,2,No,Travel_Rarely,5
+Research & Development,Research Scientist,40,Male,Bachelor,3,9972,12,7,3,4,2,4,2,3,2,3,No,Travel_Rarely,3
+Research & Development,Software Engineer,52,Female,College,1,3879,8,6,0,0,2,2,4,1,2,2,No,Non-Travel,4
+Sales,Sales Executive,52,Female,Bachelor,3,8660,11,8,6,0,1,2,4,2,4,3,No,Non-Travel,6
+Research & Development,Manufacturing Director,31,Female,College,4,13852,10,6,5,3,4,5,3,4,4,3,Yes,Travel_Rarely,2
+Research & Development,Software Engineer,34,Male,College,2,6753,10,4,3,0,4,6,4,2,1,3,No,Travel_Rarely,10
+Research & Development,Software Engineer,26,Male,Bachelor,1,3264,2,1,0,0,0,5,3,2,3,3,No,Non-Travel,4
+Research & Development,Laboratory Technician,22,Male,Master,1,2386,0,0,0,0,0,2,1,2,2,3,No,Travel_Rarely,2
+Sales,Sales Executive,33,Female,Doctor,3,10225,5,4,4,1,3,4,4,4,2,4,Yes,Travel_Frequently,4
+Sales,Sales Representative,24,Male,Bachelor,1,3337,3,2,1,0,2,4,3,2,4,3,Yes,Travel_Rarely,1
+Sales,Sales Executive,31,Female,Bachelor,3,10249,9,2,0,2,2,2,1,4,2,3,No,Travel_Rarely,4
+Research & Development,Laboratory Technician,56,Female,Below College,2,7317,24,19,11,9,3,3,3,1,3,3,No,Travel_Rarely,5
+Sales,Sales Representative,46,Male,College,1,3204,7,1,1,0,1,2,2,1,4,3,No,Travel_Rarely,9
+Research & Development,Software Engineer,25,Male,Doctor,1,2866,2,1,0,1,1,2,3,4,3,3,No,Travel_Rarely,5
+Research & Development,Software Engineer,26,Female,Bachelor,2,7811,5,3,3,0,2,2,4,3,3,3,No,Travel_Rarely,4
+Research & Development,Laboratory Technician,50,Female,Below College,1,3740,9,3,1,3,3,4,3,3,3,2,Yes,Travel_Rarely,4
+Research & Development,Manufacturing Director,32,Male,Bachelor,5,21018,11,5,5,5,4,2,4,3,4,3,No,Travel_Rarely,8
+Sales,Manager,58,Male,Bachelor,4,13087,5,2,0,0,0,1,3,3,2,3,Yes,Travel_Rarely,6
+Sales,Sales Executive,36,Female,Master,3,10209,13,2,0,1,1,3,3,1,3,3,No,Travel_Rarely,5
+Human Resources,Human Resources,40,Male,Doctor,1,3790,5,4,2,0,2,2,4,3,1,3,No,Travel_Rarely,3
+Sales,Sales Executive,39,Male,Master,2,6587,8,5,2,0,2,2,2,1,2,2,Yes,Travel_Frequently,1
+Sales,Sales Executive,37,Male,Bachelor,2,6221,8,3,1,1,0,3,3,2,2,3,Yes,Travel_Rarely,5
+Research & Development,Laboratory Technician,37,Male,Bachelor,1,2431,1,0,0,0,0,0,3,4,4,3,Yes,Travel_Rarely,7
+Research & Development,Manufacturing Director,20,Male,Bachelor,5,15566,0,0,0,0,0,3,1,4,4,2,Yes,Travel_Rarely,9
+Sales,Sales Executive,35,Male,Below College,3,8943,5,4,3,3,1,5,3,3,2,3,No,Travel_Rarely,2
+Research & Development,Software Engineer,44,Male,Below College,3,10091,12,4,4,1,3,2,4,1,3,3,Yes,Travel_Rarely,4
+Research & Development,Research Scientist,23,Female,Bachelor,1,2967,1,0,0,0,0,3,4,1,4,4,No,Travel_Frequently,6
+Research & Development,Laboratory Technician,58,Male,Below College,2,9151,32,16,4,1,8,1,3,1,2,3,Yes,Travel_Rarely,10
+Sales,Manager,27,Female,Bachelor,4,13600,3,1,0,1,1,0,3,3,2,2,Yes,Travel_Rarely,6
+Human Resources,Human Resources,52,Male,Bachelor,3,9079,10,5,3,3,0,3,3,1,2,3,Yes,Travel_Rarely,1
+Research & Development,Software Engineer,43,Male,Bachelor,1,3885,5,4,2,3,3,2,1,4,2,3,No,Travel_Rarely,2
+Research & Development,Manufacturing Director,25,Non-Binary,Master,5,23285,2,1,1,1,1,1,2,3,1,4,No,Travel_Rarely,5
+Sales,Sales Executive,53,Female,Below College,2,6129,9,4,4,1,0,3,2,3,3,3,No,Travel_Rarely,4
+Human Resources,Human Resources,54,Non-Binary,Bachelor,1,4281,10,7,0,4,3,4,3,3,2,3,No,Travel_Rarely,5
+Research & Development,Laboratory Technician,59,Male,Bachelor,1,3978,4,1,0,0,0,3,4,2,3,3,Yes,Travel_Rarely,5
+Research & Development,Research Scientist,59,Male,Master,2,6480,10,0,0,0,0,3,4,3,2,3,No,Travel_Rarely,5
+Research & Development,Software Engineer,54,Male,Below College,1,3486,5,4,1,4,4,6,1,2,4,1,No,Travel_Rarely,4
+Sales,Sales Representative,22,Male,Bachelor,1,2794,1,0,0,0,0,2,4,2,4,3,No,Travel_Frequently,4
+Research & Development,Software Engineer,28,Female,Doctor,3,9511,5,2,2,2,0,4,1,3,4,3,No,Travel_Rarely,4
+Sales,Sales Representative,30,Female,Doctor,1,3307,6,3,2,3,1,3,4,2,3,4,No,Travel_Rarely,6
+Research & Development,Laboratory Technician,24,Male,Master,1,2238,2,0,0,0,0,4,2,4,2,3,No,Travel_Rarely,0
+Sales,Manager,22,Male,Bachelor,4,12152,1,0,0,0,0,4,2,3,3,3,No,Travel_Rarely,4
+Research & Development,Laboratory Technician,57,Male,Below College,1,3593,9,7,5,3,1,1,2,2,3,3,No,Travel_Rarely,2
+Sales,Manager,38,Female,Below College,4,14499,6,4,1,2,3,4,3,1,3,3,Yes,Travel_Rarely,1
+Research & Development,Research Scientist,46,Male,Doctor,2,8331,20,17,7,10,13,1,3,4,4,3,No,Travel_Frequently,6
+Research & Development,Software Engineer,58,Female,Master,1,4414,9,3,2,1,2,1,4,2,3,4,Yes,Travel_Rarely,5
+Sales,Sales Executive,28,Male,Bachelor,2,5379,4,3,3,3,2,1,3,3,1,3,No,Non-Travel,1
+Research & Development,Research Director,20,Male,Bachelor,5,15177,0,0,0,0,0,1,4,4,4,1,No,Non-Travel,4
+Research & Development,Research Scientist,46,Male,College,2,4753,3,2,1,1,1,2,3,1,2,3,No,Travel_Rarely,5
+Research & Development,Research Scientist,25,Female,Bachelor,1,3209,2,1,1,1,0,2,2,2,3,2,No,Travel_Rarely,5
+Research & Development,Research Scientist,43,Female,College,3,10398,15,6,5,5,5,3,4,3,3,2,No,Travel_Rarely,5
+Human Resources,Manager,40,Male,Below College,4,14239,5,4,2,2,0,2,4,3,4,2,No,Travel_Rarely,2
+Research & Development,Software Engineer,44,Female,Master,3,9040,11,3,3,3,1,2,4,3,2,3,No,Travel_Rarely,6
+Sales,Sales Executive,59,Female,Bachelor,3,9635,9,4,1,4,4,3,3,2,1,3,Yes,Travel_Rarely,2
+Research & Development,Research Scientist,57,Female,Master,2,7392,13,11,9,7,8,2,4,3,2,2,No,Travel_Rarely,1
+Research & Development,Software Engineer,45,Male,Below College,2,6720,13,6,4,1,4,2,2,4,4,3,No,Non-Travel,5
+Research & Development,Software Engineer,31,Male,Below College,1,4171,9,2,2,2,2,4,2,4,2,3,No,Travel_Frequently,3
+Research & Development,Laboratory Technician,30,Male,Master,1,3580,7,2,0,0,2,3,3,3,3,2,No,Travel_Rarely,5
+Human Resources,Human Resources,37,Female,Bachelor,3,9782,13,2,2,0,2,2,3,1,3,4,No,Travel_Rarely,4
+Research & Development,Software Engineer,44,Male,College,3,9628,11,3,3,0,2,4,4,2,2,3,No,Travel_Frequently,4
+Sales,Sales Representative,29,Male,Bachelor,1,3830,8,2,1,0,0,2,3,2,1,2,No,Travel_Rarely,5
+Sales,Sales Representative,40,Male,Below College,1,3465,6,5,3,0,0,3,4,2,3,2,No,Travel_Rarely,5
+Sales,Sales Representative,33,Male,Bachelor,1,3433,5,4,4,4,0,3,3,4,3,4,No,Travel_Rarely,3
+Sales,Sales Executive,43,Female,College,3,7607,3,1,1,0,1,6,2,4,3,3,No,Travel_Rarely,5
+Research & Development,Research Scientist,21,Female,Master,1,2619,0,0,0,0,0,2,3,4,3,3,No,Travel_Rarely,3
+Sales,Sales Representative,51,Male,Bachelor,3,11873,15,12,11,8,5,2,2,3,3,3,No,Travel_Frequently,4
+Research & Development,Manufacturing Director,31,Male,College,4,15644,7,2,0,2,1,3,3,3,4,2,No,Travel_Rarely,1
+Research & Development,Research Scientist,36,Male,College,2,6719,12,3,0,1,2,2,3,4,4,3,No,Travel_Rarely,4
+Sales,Sales Executive,53,Female,Bachelor,3,9408,6,3,2,1,3,3,3,3,3,3,Yes,Travel_Rarely,5
+Research & Development,Research Director,37,Male,College,4,12725,9,8,5,2,7,2,1,3,4,3,No,Non-Travel,9
+Sales,Sales Executive,58,Male,Bachelor,3,10333,21,9,5,5,5,3,3,2,4,3,No,Travel_Rarely,4
+Sales,Sales Representative,47,Male,Bachelor,1,2402,1,0,0,0,0,3,1,3,3,3,No,Travel_Rarely,5
+Research & Development,Research Director,42,Female,Bachelor,4,15013,5,4,1,0,1,2,1,4,2,3,No,Travel_Rarely,4
+Research & Development,Research Scientist,39,Male,Bachelor,1,2505,1,0,0,0,0,5,2,1,2,3,No,Non-Travel,5
+Research & Development,Research Scientist,40,Male,College,3,10764,7,1,1,1,1,4,3,1,3,3,No,Travel_Rarely,3
+Sales,Sales Executive,49,Female,Bachelor,2,6875,12,4,4,4,3,4,2,3,3,3,No,Travel_Frequently,5
+Research & Development,Laboratory Technician,43,Female,College,1,3255,7,5,4,0,3,3,3,2,3,4,No,Travel_Rarely,4
+Sales,Sales Representative,42,Male,Doctor,1,4091,10,3,3,1,2,3,2,2,2,3,No,Travel_Rarely,3
+Research & Development,Research Scientist,24,Female,Bachelor,2,4485,3,1,1,0,1,1,3,2,4,3,No,Travel_Rarely,4
+Research & Development,Laboratory Technician,33,Male,Below College,1,3654,6,3,3,0,3,2,4,3,2,3,Yes,Travel_Rarely,7
+Research & Development,Manufacturing Director,52,Female,Bachelor,4,16526,14,6,5,4,2,2,4,1,4,2,No,Non-Travel,2
+Research & Development,Research Scientist,55,Female,Master,3,11094,18,10,1,9,2,3,3,3,2,3,No,Non-Travel,2
+Sales,Sales Executive,53,Male,Below College,2,5425,4,3,1,0,0,5,4,4,3,3,No,Travel_Rarely,5
+Sales,Sales Executive,29,Male,Master,3,8790,4,2,0,1,1,5,2,2,4,3,No,Non-Travel,6
+Sales,Sales Executive,33,Male,College,2,6081,9,2,1,2,0,3,2,3,4,3,No,Travel_Frequently,4
+Research & Development,Software Engineer,21,Female,Bachelor,1,2996,0,0,0,0,0,3,4,3,1,3,Yes,Travel_Rarely,2
+Sales,Sales Executive,31,Male,Master,2,5650,8,4,3,3,4,0,4,4,4,1,No,Travel_Rarely,3
+Research & Development,Software Engineer,59,Male,College,3,8585,8,3,2,3,1,3,2,3,2,3,Yes,Travel_Rarely,6
+Research & Development,Research Scientist,42,Female,Bachelor,3,10385,14,6,5,4,0,2,4,2,3,1,No,Travel_Rarely,2
+Research & Development,Software Engineer,46,Male,College,2,6521,14,2,1,2,0,2,3,2,4,2,Yes,Non-Travel,6
+Research & Development,Laboratory Technician,33,Female,Bachelor,1,3481,6,3,0,2,2,3,2,2,3,3,No,Travel_Rarely,2
+Research & Development,Software Engineer,42,Male,Bachelor,3,8859,10,9,9,1,1,1,4,3,4,3,No,Travel_Rarely,3
+Sales,Sales Representative,59,Male,Bachelor,2,7515,28,11,6,10,4,1,3,2,3,4,No,Travel_Rarely,3
+Research & Development,Manufacturing Director,52,Male,Master,4,14891,17,6,4,3,5,2,4,3,2,3,No,Travel_Rarely,7
+Research & Development,Research Scientist,30,Male,Below College,1,3925,9,4,0,1,3,2,3,4,4,3,Yes,Travel_Rarely,1
+Research & Development,Laboratory Technician,51,Male,Bachelor,1,3128,4,3,1,2,2,3,2,4,2,2,No,Travel_Rarely,5
+Research & Development,Software Engineer,23,Female,College,1,2778,0,0,0,0,0,2,4,2,4,3,Yes,Travel_Rarely,6
+Research & Development,Laboratory Technician,25,Female,Bachelor,1,2886,2,1,1,0,0,3,1,2,2,3,Yes,Travel_Frequently,3
+Research & Development,Laboratory Technician,25,Female,Master,1,2762,3,1,0,1,1,3,3,1,3,3,No,Travel_Rarely,2
+Human Resources,Human Resources,29,Male,Bachelor,1,2615,0,0,0,0,0,0,2,3,1,3,Yes,Travel_Rarely,6
+Research & Development,Software Engineer,25,Female,Bachelor,2,5938,4,0,0,0,0,2,3,2,3,3,Yes,Travel_Rarely,6
+Sales,Manager,26,Male,College,4,15448,5,2,1,2,1,3,2,1,2,3,No,Travel_Rarely,4
+Research & Development,Software Engineer,35,Male,College,2,6558,6,5,4,0,0,0,3,4,1,3,No,Travel_Rarely,10
+Research & Development,Research Scientist,20,Male,Master,1,2509,0,0,0,0,0,2,1,4,2,3,Yes,Travel_Rarely,5
+Research & Development,Software Engineer,59,Female,College,3,11256,16,5,2,4,3,3,2,3,3,3,No,Travel_Rarely,7
+Research & Development,Manufacturing Director,47,Male,Below College,5,22101,11,1,0,1,0,2,3,4,4,3,No,Travel_Rarely,6
+Sales,Sales Executive,43,Male,Below College,2,5584,13,6,4,3,2,2,4,3,1,3,No,Non-Travel,4
+Sales,Sales Representative,49,Male,Bachelor,3,8970,14,5,5,1,4,3,2,1,4,3,No,Travel_Rarely,5
+Human Resources,Human Resources,52,Female,Bachelor,1,3123,6,2,2,1,0,1,3,4,3,4,Yes,Travel_Frequently,3
+Research & Development,Research Scientist,55,Male,Master,2,8340,24,5,1,4,4,3,2,3,3,2,Yes,Travel_Rarely,8
+Research & Development,Research Scientist,31,Male,Below College,1,3965,7,4,3,3,4,2,1,4,3,4,No,Travel_Rarely,2
+Sales,Sales Executive,47,Male,Master,2,7122,13,5,3,0,4,3,4,3,3,4,Yes,Travel_Frequently,6
+Sales,Sales Representative,22,Male,Master,1,2269,1,0,0,0,0,2,4,3,3,3,No,Travel_Rarely,4
+Sales,Sales Representative,29,Male,Master,1,3913,8,2,0,2,1,4,4,2,2,3,No,Travel_Rarely,5
+Research & Development,Manufacturing Director,23,Male,College,5,20248,1,0,0,0,0,2,3,1,4,4,No,Travel_Rarely,3
+Research & Development,Research Director,40,Male,Bachelor,4,14611,11,7,0,0,4,3,3,4,3,3,No,Travel_Rarely,4
+Research & Development,Software Engineer,35,Male,Below College,2,6753,13,4,4,0,4,0,4,1,2,3,No,Travel_Rarely,2
+Research & Development,Manufacturing Director,35,Male,Bachelor,5,21713,9,7,3,1,4,2,3,1,3,4,Yes,Travel_Rarely,4
+Research & Development,Manufacturing Director,30,Male,Master,4,15678,3,1,0,0,0,1,4,3,3,2,Yes,Travel_Rarely,5
+Human Resources,Human Resources,21,Male,Bachelor,1,2800,0,0,0,0,0,2,1,4,3,2,No,Travel_Rarely,2
+Research & Development,Manufacturing Director,49,Male,Below College,4,17237,12,4,2,3,4,1,4,4,4,3,No,Travel_Rarely,3
+Research & Development,Laboratory Technician,52,Male,Master,2,6795,13,0,0,0,0,2,1,1,4,3,No,Travel_Rarely,7
+Research & Development,Laboratory Technician,52,Female,Below College,3,10121,15,5,5,5,4,4,3,3,3,3,No,Travel_Frequently,8
+Research & Development,Research Scientist,47,Female,Bachelor,2,5305,13,4,0,3,3,3,3,3,3,3,No,Travel_Frequently,2
+Research & Development,Laboratory Technician,39,Female,Bachelor,2,6242,14,3,0,0,2,5,2,4,3,3,Yes,Travel_Rarely,9
+Research & Development,Software Engineer,32,Male,Bachelor,2,5292,7,2,0,2,0,2,2,2,2,4,No,Travel_Rarely,2
+Human Resources,Human Resources,32,Male,College,1,4069,10,4,2,2,0,2,1,3,3,4,Yes,Travel_Rarely,3
+Sales,Sales Representative,46,Female,Bachelor,1,4003,9,1,0,0,0,3,3,4,4,3,No,Travel_Frequently,2
+Research & Development,Software Engineer,51,Female,Master,3,9277,14,7,3,5,2,3,3,3,3,3,No,Travel_Rarely,6
+Research & Development,Software Engineer,27,Male,Master,2,6798,4,2,0,1,2,2,4,4,2,3,No,Non-Travel,4
+Sales,Sales Executive,25,Male,Below College,3,8082,4,1,1,0,0,3,3,3,3,3,Yes,Travel_Rarely,2
+Human Resources,Manager,46,Female,Bachelor,4,13770,21,5,5,2,0,3,1,3,2,3,No,Travel_Rarely,4
+Research & Development,Software Engineer,21,Female,College,1,2778,0,0,0,0,0,3,2,1,3,3,No,Travel_Rarely,7
+Research & Development,Laboratory Technician,52,Male,College,2,6499,14,6,6,6,4,4,1,3,2,3,No,Travel_Rarely,8
+Sales,Sales Executive,25,Male,College,3,8943,2,1,1,1,1,1,4,2,3,3,No,Travel_Frequently,2
+Research & Development,Software Engineer,37,Male,Bachelor,2,7681,15,2,2,0,2,2,1,4,4,3,No,Travel_Frequently,5
+Research & Development,Research Scientist,22,Male,Bachelor,1,2682,1,0,0,0,0,2,2,3,3,3,No,Non-Travel,3
+Research & Development,Manufacturing Director,28,Female,Master,4,14783,7,4,2,0,2,1,3,1,3,4,Yes,Travel_Rarely,5
+Sales,Sales Executive,24,Female,College,4,15883,3,0,0,0,0,1,3,4,3,2,No,Travel_Rarely,2
+Research & Development,Software Engineer,39,Female,Master,1,2970,6,3,3,2,1,3,3,4,3,3,Yes,Travel_Rarely,4
+Research & Development,Research Scientist,35,Female,Below College,1,2853,1,0,0,0,0,3,4,4,2,2,Yes,Travel_Frequently,8
+Research & Development,Laboratory Technician,25,Male,Bachelor,1,3780,3,1,0,1,0,3,2,1,3,3,Yes,Travel_Rarely,5
+Human Resources,Human Resources,23,Female,Bachelor,1,3089,2,0,0,0,0,3,4,3,3,4,Yes,Travel_Rarely,4
+Research & Development,Laboratory Technician,29,Female,Bachelor,1,3336,5,3,0,2,0,3,2,3,3,3,No,Travel_Rarely,4
+Research & Development,Laboratory Technician,38,Female,Below College,1,2916,1,0,0,0,0,3,3,2,1,3,Yes,Travel_Rarely,6
+Research & Development,Manufacturing Director,49,Male,Bachelor,4,15545,21,2,2,2,2,3,3,2,3,3,No,Travel_Rarely,7
+Sales,Sales Executive,22,Female,Bachelor,3,8637,1,0,0,0,0,6,3,4,1,3,No,Travel_Rarely,8
+Sales,Sales Representative,46,Male,Master,3,10465,13,6,3,0,6,2,3,3,3,2,No,Travel_Rarely,1
+Sales,Sales Executive,41,Female,Below College,2,6768,9,3,1,3,1,3,2,3,2,3,No,Travel_Rarely,3
+Research & Development,Software Engineer,57,Male,College,4,14466,12,9,3,5,8,3,4,2,3,3,Yes,Non-Travel,2
+Research & Development,Laboratory Technician,21,Male,Bachelor,1,3170,0,0,0,0,0,2,3,4,3,3,No,Travel_Rarely,2
+Research & Development,Software Engineer,39,Male,Bachelor,2,6126,12,9,4,1,9,2,3,4,4,3,No,Travel_Rarely,4
+Human Resources,Human Resources,47,Female,Master,3,9204,10,2,2,2,1,2,3,3,3,3,No,Travel_Rarely,5
+Sales,Manager,33,Male,Bachelor,5,22789,8,1,0,1,0,4,2,4,2,3,No,Travel_Rarely,3
+Research & Development,Software Engineer,21,Female,Master,1,2953,0,0,0,0,0,4,4,1,4,3,Yes,Travel_Rarely,11
+Sales,Sales Executive,57,Male,Bachelor,3,9736,17,10,10,1,9,3,4,3,2,3,No,Travel_Frequently,6
+Human Resources,Human Resources,21,Male,Bachelor,1,2774,0,0,0,0,0,2,2,3,3,1,No,Travel_Rarely,4
+Research & Development,Research Director,44,Female,Master,4,15845,8,4,2,3,4,0,3,2,3,3,No,Travel_Rarely,6
+Sales,Sales Executive,29,Male,Bachelor,4,11449,4,1,1,0,1,4,3,4,1,1,No,Travel_Frequently,4
+Research & Development,Laboratory Technician,20,Male,Below College,1,2367,0,0,0,0,0,3,4,4,3,3,No,Travel_Rarely,3
+Research & Development,Software Engineer,29,Male,Bachelor,1,3337,3,0,0,0,0,1,1,3,2,3,Yes,Travel_Rarely,2
+Research & Development,Software Engineer,45,Male,Bachelor,4,12800,14,2,1,2,1,1,4,3,4,3,No,Travel_Rarely,2
+Sales,Sales Executive,50,Female,Bachelor,2,8189,24,3,1,3,1,3,4,4,2,3,No,Travel_Rarely,5
+Research & Development,Research Scientist,40,Male,Doctor,2,7859,16,3,1,2,3,4,3,4,4,3,Yes,Travel_Frequently,3
+Research & Development,Software Engineer,55,Male,Bachelor,3,10806,21,17,12,4,13,3,4,3,2,3,No,Travel_Rarely,2
+Sales,Sales Representative,44,Non-Binary,Below College,3,8557,11,9,3,3,9,2,4,4,4,3,Yes,Travel_Rarely,4
+Research & Development,Software Engineer,47,Female,Bachelor,1,4096,10,8,7,6,4,3,2,4,3,2,Yes,Travel_Rarely,1
+Research & Development,Laboratory Technician,20,Female,Bachelor,1,2530,0,0,0,0,0,2,3,1,2,3,No,Travel_Rarely,5
+Research & Development,Manufacturing Director,40,Male,College,4,16375,11,9,6,4,7,1,2,3,2,3,No,Travel_Rarely,2
+Research & Development,Software Engineer,34,Male,Bachelor,2,4513,3,1,0,1,0,3,3,4,3,3,No,Travel_Rarely,9
+Sales,Sales Executive,23,Female,Bachelor,3,8887,2,1,1,1,0,1,1,1,3,1,No,Travel_Rarely,3
+Sales,Sales Representative,31,Male,Master,1,3639,5,2,2,1,2,0,1,3,4,2,No,Travel_Rarely,5
+Sales,Sales Executive,27,Female,Bachelor,3,9961,6,5,1,1,1,3,4,3,3,3,Yes,Travel_Frequently,2
+Research & Development,Research Director,30,Male,Below College,4,15102,3,2,2,2,2,0,2,4,3,3,No,Travel_Rarely,4
+Research & Development,Research Scientist,54,Female,Bachelor,3,13232,23,17,0,8,8,1,3,4,4,2,No,Travel_Rarely,4
+Research & Development,Software Engineer,36,Male,Bachelor,2,5537,6,4,0,0,4,6,4,3,3,2,Yes,Travel_Rarely,5
+Research & Development,Manufacturing Director,35,Male,Doctor,5,20303,8,3,2,0,1,2,3,3,3,1,Yes,Travel_Rarely,5
+Research & Development,Laboratory Technician,54,Female,Bachelor,3,11425,14,8,4,1,0,3,3,4,4,3,No,Travel_Frequently,4
+Research & Development,Laboratory Technician,35,Male,Bachelor,4,13170,12,6,3,2,6,3,2,4,2,3,No,Travel_Rarely,3
+Research & Development,Software Engineer,56,Male,College,3,11339,11,6,0,3,2,3,3,3,3,3,No,Travel_Rarely,4
+Research & Development,Software Engineer,32,Male,Master,2,6056,9,6,4,5,0,6,4,2,3,2,No,Travel_Rarely,6
+Sales,Sales Representative,27,Female,Bachelor,1,3272,4,3,1,2,2,6,4,4,4,1,No,Travel_Rarely,8
+Research & Development,Software Engineer,49,Male,Bachelor,3,9116,12,10,9,6,4,5,3,3,3,3,No,Travel_Rarely,4
+Sales,Sales Representative,23,Male,Bachelor,1,2375,0,0,0,0,0,3,4,3,2,3,No,Travel_Frequently,7
+Sales,Sales Executive,44,Male,Master,4,15199,7,5,3,0,5,0,1,4,2,3,Yes,Travel_Rarely,3
+Sales,Sales Representative,50,Male,Doctor,3,11180,14,5,3,1,0,5,4,4,2,3,Yes,Travel_Rarely,2
+Research & Development,Research Scientist,34,Female,Master,1,3181,8,6,3,2,2,2,4,3,2,4,No,Travel_Rarely,1
+Research & Development,Manufacturing Director,26,Male,Master,4,15188,4,1,0,0,1,2,2,4,2,3,No,Non-Travel,3
+Sales,Sales Representative,40,Male,College,1,3674,9,3,3,0,1,3,4,3,4,2,No,Non-Travel,4
+Sales,Sales Representative,56,Male,Master,3,10721,23,9,0,3,1,5,4,4,3,3,Yes,Travel_Rarely,3
+Sales,Sales Representative,27,Male,Below College,1,3061,5,2,1,2,1,3,3,2,4,3,No,Travel_Rarely,3
+Sales,Sales Executive,21,Male,College,2,4540,0,0,0,0,0,2,2,2,4,4,No,Travel_Rarely,6
+Research & Development,Software Engineer,21,Female,Bachelor,1,2988,0,0,0,0,0,4,2,1,3,3,No,Travel_Rarely,2
+Sales,Manager,28,Male,Bachelor,5,21365,0,0,0,0,0,2,4,2,4,3,No,Travel_Rarely,7
+Research & Development,Laboratory Technician,41,Male,College,4,17112,14,4,1,0,3,6,2,1,4,1,No,Travel_Rarely,3
+Research & Development,Research Scientist,24,Female,Bachelor,1,3734,2,1,1,1,1,3,3,4,3,4,No,Non-Travel,10
+Research & Development,Manufacturing Director,26,Male,College,4,13113,3,2,1,0,2,4,4,3,2,4,No,Travel_Rarely,0
+Human Resources,Human Resources,23,Male,Master,1,2335,1,0,0,0,0,1,1,4,3,3,Yes,Travel_Rarely,7
+Research & Development,Research Scientist,53,Male,College,3,10340,13,5,4,4,1,3,1,4,3,3,No,Travel_Frequently,2
+Research & Development,Software Engineer,43,Male,Doctor,1,3614,5,3,0,3,1,5,2,2,3,4,No,Travel_Rarely,6
+Sales,Sales Executive,48,Male,Doctor,2,6750,12,2,0,1,0,4,4,4,2,3,No,Travel_Rarely,8
+Sales,Sales Representative,50,Female,Master,3,9876,14,5,3,4,0,3,2,4,1,2,Yes,Travel_Rarely,4
+Research & Development,Research Director,43,Female,College,5,19894,19,17,3,15,6,3,3,2,2,2,Yes,Travel_Rarely,4
+Research & Development,Manufacturing Director,21,Female,Master,4,13163,0,0,0,0,0,2,4,3,3,3,No,Travel_Rarely,2
+Sales,Sales Representative,39,Female,College,3,10972,16,4,3,2,3,3,4,3,2,1,No,Travel_Rarely,3
+Human Resources,Human Resources,25,Female,Bachelor,3,9086,4,1,0,0,0,3,3,1,3,2,No,Non-Travel,2
+Research & Development,Laboratory Technician,26,Male,Below College,1,3630,2,1,1,0,1,3,2,3,3,4,No,Non-Travel,2
+Research & Development,Research Scientist,25,Male,Bachelor,3,8594,3,1,1,1,0,3,2,3,2,3,No,Travel_Rarely,1
+Research & Development,Research Scientist,42,Female,Below College,1,3492,6,4,0,2,0,3,3,4,3,2,No,Travel_Rarely,7
+Research & Development,Research Scientist,21,Female,Doctor,1,2986,0,0,0,0,0,4,1,2,4,3,No,Travel_Rarely,3
+Sales,Sales Representative,48,Male,Bachelor,1,3513,5,4,2,4,0,2,4,3,4,2,No,Travel_Rarely,1
+Research & Development,Laboratory Technician,59,Male,Below College,1,4032,8,6,2,1,5,3,3,3,4,3,No,Travel_Frequently,5
+Sales,Sales Executive,57,Male,Master,3,10771,20,13,7,8,5,3,1,2,3,3,No,Travel_Rarely,3
+Research & Development,Manufacturing Director,56,Male,Doctor,4,14155,16,5,1,2,2,2,1,4,4,4,No,Non-Travel,4
+Sales,Sales Executive,55,Male,Bachelor,3,9264,29,8,4,0,4,3,4,2,3,2,Yes,Travel_Frequently,6
+Research & Development,Research Scientist,39,Male,Bachelor,4,15382,16,4,4,0,2,3,3,1,1,4,No,Travel_Rarely,5
+Research & Development,Research Director,39,Male,College,4,16155,10,6,2,0,1,2,4,2,3,3,No,Travel_Frequently,6
+Research & Development,Laboratory Technician,23,Male,Master,1,2973,2,1,1,1,1,2,4,1,3,3,Yes,Travel_Rarely,8
+Research & Development,Laboratory Technician,36,Male,Bachelor,3,9449,13,5,1,5,0,3,2,4,2,3,No,Travel_Rarely,1
+Sales,Sales Executive,40,Male,Below College,2,6904,18,9,1,5,1,2,1,3,2,4,No,Non-Travel,6
+Research & Development,Software Engineer,52,Female,Bachelor,1,3116,7,4,2,3,4,3,4,4,2,3,No,Travel_Rarely,3
+Sales,Manager,20,Male,Doctor,4,13800,0,0,0,0,0,2,3,2,3,3,No,Travel_Rarely,6
+Research & Development,Research Scientist,22,Female,Bachelor,1,3163,1,0,0,0,0,3,4,4,3,4,No,Travel_Rarely,3
+Research & Development,Laboratory Technician,21,Male,Master,1,2425,0,0,0,0,0,3,4,3,1,4,No,Travel_Rarely,5
+Research & Development,Laboratory Technician,25,Female,Below College,1,3450,3,2,1,0,0,2,3,3,4,3,No,Travel_Rarely,4
+Research & Development,Research Scientist,37,Male,Bachelor,4,13543,15,7,2,1,7,2,4,3,4,4,No,Non-Travel,0
+Research & Development,Research Scientist,39,Female,Below College,2,5069,8,2,2,1,0,2,4,3,4,3,No,Travel_Rarely,2
+Human Resources,Manager,24,Male,Bachelor,4,14897,2,0,0,0,0,5,3,1,4,4,No,Travel_Rarely,2
+Sales,Manager,51,Male,Bachelor,4,14247,16,7,7,3,1,3,2,2,3,3,Yes,Travel_Rarely,6
+Sales,Sales Executive,41,Female,Master,3,10770,10,3,2,0,2,2,3,3,1,4,No,Travel_Rarely,3
+Sales,Manager,39,Female,College,5,21291,9,2,1,1,2,4,4,3,4,2,No,Non-Travel,5
+Sales,Sales Executive,24,Female,Bachelor,4,11193,3,2,0,2,2,2,4,2,3,3,No,Travel_Rarely,4
+Research & Development,Laboratory Technician,44,Female,College,1,3844,10,4,4,1,4,4,3,4,3,3,Yes,Travel_Rarely,3
+Sales,Sales Executive,40,Male,Bachelor,2,7021,9,2,1,0,1,4,3,4,3,3,No,Travel_Frequently,6
+Research & Development,Research Director,31,Male,Bachelor,5,21892,7,5,1,4,5,3,2,4,3,3,No,Travel_Rarely,3
